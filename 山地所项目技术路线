@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T14:32:56.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Wu-MzJOeop6PL5UVEp3v" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T16:55:18.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="eQSdItiwShk5-VMi2gFE" version="15.8.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1108" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="785" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,14 +27,13 @@
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-20" value="反照率反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="840" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9kUBxG-Cbkqe4WH1oa9A-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-28" target="9kUBxG-Cbkqe4WH1oa9A-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9kUBxG-Cbkqe4WH1oa9A-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-28" value="HLS反射率数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="170" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9kUBxG-Cbkqe4WH1oa9A-30" value="地形校正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="800" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-35" target="9kUBxG-Cbkqe4WH1oa9A-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,10 +52,10 @@
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-37" value="山顶直/散射观测值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-39" target="c7Oi4Bo4j6qdQiVUJeNS-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-39" target="c7Oi4Bo4j6qdQiVUJeNS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-39" target="c7Oi4Bo4j6qdQiVUJeNS-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-39" target="c7Oi4Bo4j6qdQiVUJeNS-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1170" y="250" />
@@ -79,7 +78,7 @@
             <mxPoint x="1080" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-49" target="wRntDybsDAtNoG3z3CDZ-4">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9kUBxG-Cbkqe4WH1oa9A-49" target="wRntDybsDAtNoG3z3CDZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-49" value="站点残差克里金插值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -88,19 +87,19 @@
         <mxCell id="9kUBxG-Cbkqe4WH1oa9A-51" value="LESS模拟DSR初始值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wRntDybsDAtNoG3z3CDZ-1" target="c7Oi4Bo4j6qdQiVUJeNS-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="220" />
-              <mxPoint x="880" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wRntDybsDAtNoG3z3CDZ-1" target="9kUBxG-Cbkqe4WH1oa9A-49">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wRntDybsDAtNoG3z3CDZ-1" target="9kUBxG-Cbkqe4WH1oa9A-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="490" />
               <mxPoint x="1080" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d8l4aPR9T8nv-jkxxrv4-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wRntDybsDAtNoG3z3CDZ-1" target="c7Oi4Bo4j6qdQiVUJeNS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="280" />
+              <mxPoint x="880" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -206,31 +205,31 @@
         <mxCell id="PTlil6ODN4_-SJp6J9lT-59" value="&lt;font color=&quot;#000000&quot;&gt;晴&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=none;strokeWidth=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="820" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-1" target="9kUBxG-Cbkqe4WH1oa9A-40">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-1" target="9kUBxG-Cbkqe4WH1oa9A-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-1" value="区域直/散射估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-1" value="区域直/散射估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-4" target="9kUBxG-Cbkqe4WH1oa9A-35">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-4" target="9kUBxG-Cbkqe4WH1oa9A-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-4" value="反照率反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-4" value="反照率反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-8" value="HLS反射率数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-8" value="HLS反射率数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-9" value="山顶直/散射观测值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-9" value="山顶直/散射观测值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-10" value="HLS反射率数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-10" value="HLS反射率数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-11" value="山顶直/散射观测值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-11" value="山顶直/散射观测值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-12" target="9kUBxG-Cbkqe4WH1oa9A-51">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-12" target="9kUBxG-Cbkqe4WH1oa9A-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1260" y="420" />
@@ -238,14 +237,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-12" value="DEM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-12" value="DEM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1180" y="170" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-13" target="c7Oi4Bo4j6qdQiVUJeNS-4">
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c7Oi4Bo4j6qdQiVUJeNS-13" target="c7Oi4Bo4j6qdQiVUJeNS-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-13" value="地形校正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="240" width="160" height="40" as="geometry" />
+        <mxCell id="c7Oi4Bo4j6qdQiVUJeNS-13" value="地形校正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="230" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
